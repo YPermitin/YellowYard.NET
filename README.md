@@ -1,6 +1,6 @@
 # YellowYard.NET
 
-Список разработок на платформе .NET для платформы 1С:Предприятие.
+Список разработок на платформе .NET для платформы 1С:Предприятие, а также некоторые связанные статьи и другие материалы.
 
 ## Инструменты разработки
 
@@ -9,6 +9,7 @@
 | [OneScript](https://github.com/EvilBeaver/OneScript) | Исполняющая среда скриптов на языке 1С | - | [Андрей Овсянкин](https://infostart.ru/profile/267027/) |
 | [OneScript.Web](https://github.com/EvilBeaver/OneScript.Web) | MVC-движок сайтов на 1Script | - | [Андрей Овсянкин](https://infostart.ru/profile/267027/) |
 | [Elisy .Net Bridge](http://www.1csoftware.com/dotnet) | внешний компонент для 1C:Предприятие. Библиотека Elisy.NetBridge.dll обеспечивает бесшовную и гармоничную интеграцию с .Net Framework посредством взаимодействия с Common Language Runtime (CLR) | - | [Сергей Карташев](https://infostart.ru/profile/40833/) |
+| [NetObjectToIDispatch](https://infostart.ru/public/238584/) | Использования сборок .Net в 1С через преобразование объектов и классов в COM-объекты, которые можно использовать в 1С | - | [Сергей Смирнов](https://infostart.ru/profile/82159/) |
 
 ## Работа с журналом регистрации
 
