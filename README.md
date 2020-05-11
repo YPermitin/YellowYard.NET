@@ -26,7 +26,7 @@
 | Разработка | Описание | Nuget | Автор |
 | ---------- | -------- | ----- | ----- |
 | [OneSTools.LogCfg](https://github.com/akpaevj/OneSTools.LogCfg) | Библиотека для программного создания файла конфигурации технологического журнала | - | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
-| [OneSTechLog](https://github.com/akpaevj/OneSTechLog) | Библиотека позволяет выполнять парсинг технологического журнала и получать каждое событие в нормализованном виде | [![Nuget](https://img.shields.io/nuget/v/OneSTechLog)](https://www.nuget.org/packages/OneSTechLog) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
+| [OneSTools.TechLog](https://github.com/akpaevj/OneSTools.TechLog) | Библиотека позволяет выполнять парсинг технологического журнала и получать каждое событие в нормализованном виде | [![Nuget](https://img.shields.io/nuget/v/OneSTools.TechLog)](https://www.nuget.org/packages/OneSTechLog) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
 | [tj_loader](https://github.com/alekseybochkov/tj_loader) | Приложение позволяет выполнить разбор текстовых файлов технологического журнала с расширением *.log на события и записать эти события в таблицу базы MS SQL. | - | [Алексей Бочков](https://infostart.ru/profile/15301/) |
 
 ## Администрирование
