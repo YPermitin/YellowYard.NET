@@ -25,7 +25,7 @@
 
 | Разработка | Описание | Nuget | Автор |
 | ---------- | -------- | ----- | ----- |
-| [OneSTools.LogCfg](https://github.com/akpaevj/OneSTools.LogCfg) | Библиотека для программного создания файла конфигурации технологического журнала | - | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
+| [OneSTools.LogCfg](https://github.com/akpaevj/OneSTools.LogCfg) | Библиотека для программного создания файла конфигурации технологического журнала | [![Nuget](https://img.shields.io/nuget/v/OneSTools.LogCfg)](https://www.nuget.org/packages/OneSTools.LogCfg) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
 | [OneSTools.TechLog](https://github.com/akpaevj/OneSTools.TechLog) | Библиотека позволяет выполнять парсинг технологического журнала и получать каждое событие в нормализованном виде | [![Nuget](https://img.shields.io/nuget/v/OneSTools.TechLog)](https://www.nuget.org/packages/OneSTechLog) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
 | [tj_loader](https://github.com/alekseybochkov/tj_loader) | Приложение позволяет выполнить разбор текстовых файлов технологического журнала с расширением *.log на события и записать эти события в таблицу базы MS SQL. | - | [Алексей Бочков](https://infostart.ru/profile/15301/) |
 
@@ -48,7 +48,7 @@
 | Разработка | Описание | Nuget | Автор |
 | ---------- | -------- | ----- | ----- |
 | [OneSTools.BracketsFile](https://github.com/akpaevj/OneSTools.BracketsFile) | Библиотека для парсинга внутрисистемного формата файлов 1С | [![Nuget](https://img.shields.io/nuget/v/OneSTools.BracketsFile)](https://www.nuget.org/packages/OneSTools.BracketsFile) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
-| [OneSTools.Database](https://github.com/akpaevj/OneSTools.Database) | Библиотека, предназначенная для чтения структуры конфигурации 1С из существующей базы данных | - | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
+| [OneSTools.Database](https://github.com/akpaevj/OneSTools.Database) | Библиотека, предназначенная для чтения структуры конфигурации 1С из существующей базы данных | [![Nuget](https://img.shields.io/nuget/v/OneSTools.Database)](https://www.nuget.org/packages/OneSTools.Database) | [Евгений Акпаев](https://infostart.ru/profile/457562/) |
 | [V8Formats](https://github.com/YPermitin/V8Formats) | Распаковка в файловую структуру и запаковка в форматы файлов платформы 1С:Предприятие файлов конфигураций (.CF), внешних обработок (.ERF) и внешних отчетов (*.ERT) | [![NuGet version](https://badge.fury.io/nu/V8Formats.svg)](https://badge.fury.io/nu/V8Formats) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [MdInternals](https://github.com/elisy/MdInternals) | Анализатор и декомпилятор конфигураций платформы 1С:Предприятие | - | [Сергей Карташев](https://infostart.ru/profile/40833/) |
 
