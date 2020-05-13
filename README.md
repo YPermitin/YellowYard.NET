@@ -20,7 +20,8 @@
 | [YY.EventLogExportAssistant.SQLServer](https://github.com/YPermitin/YY.EventLogExportAssistant/tree/master/Libs/YY.EventLogExportAssistant.SQLServer) | Пакет для экспорта журнала регистрации в базу SQL Server | [![NuGet version](https://badge.fury.io/nu/YY.EventLogExportAssistant.SQLServer.svg)](https://badge.fury.io/nu/YY.EventLogExportAssistant.SQLServer) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [YY.EventLogExportAssistant.PostgreSQL](https://github.com/YPermitin/YY.EventLogExportAssistant/tree/master/Libs/YY.EventLogExportAssistant.PostgreSQL) | Пакет для экспорта журнала регистрации в базу PostgreSQL | ![NuGet version](https://badge.fury.io/nu/YY.EventLogExportAssistant.PostgreSQL.svg) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [EventLogLoader](https://github.com/alekseybochkov/EventLogLoader) | Периодическая загрузка событий из журналов регистрации ИБ 1С:Предприятие 8 в базу MS SQL Server/MySQL или индекс ElasticSearch | - | [Алексей Бочков](https://infostart.ru/profile/15301/) |
-
+| [OnecLogElasticSentry](https://github.com/PashaMak/OnecLogElasticSentry) | Журнал регистрации в эластике с использованием службы без использования 1С (.net + elastic) | - | [PashaMak](https://infostart.ru/profile/144011/) |
+ 
 ## Работа с технологическим журналом
 
 | Разработка | Описание | Nuget | Автор |
