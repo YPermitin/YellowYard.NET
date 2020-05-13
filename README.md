@@ -10,6 +10,7 @@
 | [OneScript.Web](https://github.com/EvilBeaver/OneScript.Web) | MVC-движок сайтов на 1Script | - | [Андрей Овсянкин](https://infostart.ru/profile/267027/) |
 | [Elisy .Net Bridge](http://www.1csoftware.com/dotnet) | внешний компонент для 1C:Предприятие. Библиотека Elisy.NetBridge.dll обеспечивает бесшовную и гармоничную интеграцию с .Net Framework посредством взаимодействия с Common Language Runtime (CLR) | - | [Сергей Карташев](https://infostart.ru/profile/40833/) |
 | [NetObjectToIDispatch](https://infostart.ru/public/238584/) | Использования сборок .Net в 1С через преобразование объектов и классов в COM-объекты, которые можно использовать в 1С | - | [Сергей Смирнов](https://infostart.ru/profile/82159/) |
+| [1C# (OneCSharp)](https://github.com/zhichkin/one-c-sharp) | 1C# - это платформа для разработки серверных приложений, доступных через web | - | [Дмитрий Жичкин](https://infostart.ru/profile/525991/) |
 
 ## Работа с журналом регистрации
 
