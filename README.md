@@ -16,6 +16,7 @@
 
 | Разработка | Описание | Nuget | Автор |
 | ---------- | -------- | ----- | ----- |
+| [Экспорт журнала регистрации. Набор инструментов (приложения + исходный код)](https://infostart.ru/public/1240376/) | Набор инструментов для экспорта данных журнала регистрации во внешние хранилища для Windows и Linux. Готовые приложения и исходный код. | - | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [YY.EventLogReaderAssistant](https://github.com/YPermitin/YY.EventLogReaderAssistant) | Библиотека для чтения файлов журнала регистрации платформы 1С:Предприятие 8.x | [![NuGet version](https://badge.fury.io/nu/YY.EventLogReaderAssistant.svg)](https://badge.fury.io/nu/YY.EventLogReaderAssistant) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [YY.EventLogExportAssistant.Core](https://github.com/YPermitin/YY.EventLogExportAssistant/tree/master/Libs/YY.EventLogExportAssistant.Core) | Базовый пакет для экспорта данных журнала регистрации | ![NuGet version](https://badge.fury.io/nu/YY.EventLogExportAssistant.Core.svg) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 | [YY.EventLogExportAssistant.SQLServer](https://github.com/YPermitin/YY.EventLogExportAssistant/tree/master/Libs/YY.EventLogExportAssistant.SQLServer) | Пакет для экспорта журнала регистрации в базу SQL Server | [![NuGet version](https://badge.fury.io/nu/YY.EventLogExportAssistant.SQLServer.svg)](https://badge.fury.io/nu/YY.EventLogExportAssistant.SQLServer) | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
