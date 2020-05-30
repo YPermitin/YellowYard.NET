@@ -11,6 +11,7 @@
 | [Elisy .Net Bridge](http://www.1csoftware.com/dotnet) | внешний компонент для 1C:Предприятие. Библиотека Elisy.NetBridge.dll обеспечивает бесшовную и гармоничную интеграцию с .Net Framework посредством взаимодействия с Common Language Runtime (CLR) | - | [Сергей Карташев](https://infostart.ru/profile/40833/) |
 | [NetObjectToIDispatch](https://infostart.ru/public/238584/) | Использования сборок .Net в 1С через преобразование объектов и классов в COM-объекты, которые можно использовать в 1С | - | [Сергей Смирнов](https://infostart.ru/profile/82159/) |
 | [1C# (OneCSharp)](https://github.com/zhichkin/one-c-sharp) | 1C# - это платформа для разработки серверных приложений, доступных через web | - | [Дмитрий Жичкин](https://infostart.ru/profile/525991/) |
+| [YY.DotNetObjectWrapper](https://github.com/YPermitin/YY.DotNetObjectWrapper) | Оболочка объектов .NET для использования в других экосистемах приложений. Сейчас основной целью является использование для платформы 1С:Предприятие 8.x из кода встроенного языка. Это экспериментальный проект и в дальнейшем планируется глубокая модицификация библиотеки и некоторые эксперименты с ней. Основывается на базе библиотеке [NetObjetToIDispatch45 ](https://infostart.ru/public/238584/) | - | [Пермитин Юрий](https://infostart.ru/profile/225415/) |
 
 ## Работа с журналом регистрации
 
@@ -67,6 +68,9 @@
 
 ### Использование компоненты [NetObjectToIDispatch](https://infostart.ru/public/238584/):
 
+<details>
+    <summary>Список публикаций</summary>
+ 
 * [Использование сборок .NET в 1С 7.x b 8.x. Создание внешних Компонент](https://infostart.ru/public/238584/)
 * [Обработка для формирования классов для прямого доступа к файлам 1С через курсоры BDE. И многого другого](https://infostart.ru/public/345658/)
 * [Методы для группировки данных по полю,полям в Таблице Значений на примере универсального метода списания по партиям, а также отбора строк в ТЗ по произвольному условию. Для 8.x и 7.7](https://infostart.ru/public/371762/)
@@ -90,15 +94,27 @@
 * [Net Core. Динамическая компиляция класса обертки для получения событий .Net объекта в 1С](https://infostart.ru/public/548701/)
 * [.Net Core, обмен с 1C по TCP/IP между различными устройствами](https://infostart.ru/public/551698/)
 
+</details>
+
 ### Про Elisy .Net Bridge
+
+<details>
+    <summary>Список публикаций</summary>
 
 * [1С.Net:Предприятие - подключите .Net Framework к 1C через Elisy .Net Bridge](https://infostart.ru/public/20035/)
 * [1C.Net:Предприятие - Инструкция по подключению Elisy .Net Bridge 4 на 64-разрядном сервере 1С:Предприятие 8](https://infostart.ru/public/165910/)
 * [1C.Net:Предприятие – использование богатых графических возможностей .Net Framework](https://infostart.ru/public/70417/)
 * [Фотография на документы. Интерактивный редактор](https://infostart.ru/public/78946/)
 
+</details>
+
 ### Другие статьи
 
+<details>
+    <summary>Список публикаций</summary>
+ 
 * [1C.Net:Предприятие – пример коммерческого успеха .Net-решений в России](https://infostart.ru/public/70859/)
 * [Работа с журналом регистрации. Выходим за границы платформы](https://infostart.ru/public/1234678/)
 * [Сложнейшая загрузка журнала регистрации в ElasticSearch (или делаем настоящий ETL)](https://infostart.ru/public/1128327/)
+
+</details>
