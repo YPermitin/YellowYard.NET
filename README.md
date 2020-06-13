@@ -53,6 +53,7 @@
 | [LicDataDecoder](https://github.com/GeraltSnow/LicDataDecoder) | Декодер файлов лицензий 1с. Извлечение LicData, сравнение параметров текущего компьютера с параметрами из лицензии. | - | [GeraltSnow](https://github.com/GeraltSnow) |
 | [ZabbixStatistics](https://github.com/LLIKIPER/ZabbixStatistics) | Статистика выполнения кода из 1C в zabbix | - | [LLIKIPER](https://github.com/LLIKIPER) |
 | [ClearCache1C](https://github.com/djserega/ClearCache1C) | Очистка кеша всех баз 1С текущего пользователя | - | [djserega](https://github.com/djserega) |
+| [AdminPanel](https://github.com/akpaevj/AdminPanel) | Сайт с http-сервисом WebCommonInoBases для управления и раздачи списков баз 1С | - | [Евгений Акпаев](https://github.com/akpaevj) |
 
 ## Безопасность
 
